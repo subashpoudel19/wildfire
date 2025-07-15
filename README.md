@@ -1,4 +1,4 @@
-# Post-Wildfire Debris Flow Prediction Model
+## Automated Wildcat Python Tool
 
 ## Project Overview
 This machine learning project aims to predict the likelihood of debris flows in recently burned areas across the Western United States. Based on the USGS research, the model integrates multiple advanced parameters to assess post-wildfire debris flow probability.
