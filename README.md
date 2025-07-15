@@ -90,7 +90,7 @@ def predict_debris_flow(basin_parameters):
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/post-wildfire-debris-flow-prediction.git
+git clone https://github.com/subashpoudel19/post-wildfire-debris-flow-prediction.git
 cd post-wildfire-debris-flow-prediction
 pip install -r requirements.txt
 ```
