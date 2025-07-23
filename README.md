@@ -17,12 +17,7 @@ This tool automates the entire WILDCAT model workflow for post-fire debris flow 
 ```
 wildcat-automation/
 ├── notebooks/
-│   ├── 00_complete_workflow.ipynb      # Master notebook for complete workflow
-│   ├── 01_data_preparation.ipynb       # MTBS data extraction and organization
-│   ├── 02_gee_processing.ipynb         # GEE authentication and DEM download
-│   ├── 03_wildcat_execution.ipynb      # WILDCAT model execution
-│   ├── 04_visualization.ipynb          # Probability raster generation
-│   └── examples/                        # Example notebooks for specific tasks
+│   └── 00_complete_workflow.ipynb      # Master notebook for complete workflow
 ├── src/
 │   ├── __init__.py
 │   ├── wildcat_automation.py           # Main automation orchestrator class
